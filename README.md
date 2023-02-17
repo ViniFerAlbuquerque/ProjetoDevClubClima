@@ -12,4 +12,4 @@
 <p>JavaScript<p>
 <br>
 <h3>Site para atualização da temperatura e demais dados pertinentes:<h3>
-<p>openweathermap.org<p>
+<p><a href="openweathermap.org">OpenWeather<p>
