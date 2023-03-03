@@ -7,9 +7,9 @@
 [🔗Clique Aqui Para Acessar](https://viniferalbuquerque-devclub-clima.netlify.app)
 <br>
 <h3>Enfocando no projeto as seguintes tecnologias:<h3>
-<p>HTML<p>
-<p>CSS<p>
-<p>JavaScript<p>
+<p>-HTML<p>
+<p>-CSS<p>
+<p>-JavaScript<p>
 <br>
 <h3>Site para atualização da temperatura e demais dados pertinentes:<h3>
 <p>openweathermap.org<p>
