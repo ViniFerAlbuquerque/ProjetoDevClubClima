@@ -4,9 +4,9 @@
 <br>
 <h2>Projeto ensinado pelo professor Rodolfo Mori <a href="https://rodolfomori.com.br/devclub">DevClub!</a></h2>
 
-[🔗Clique Aqui Para Acessar](https://viniferalbuquerque-devclub-clima.netlify.app)
+[🔗Clique Aqui Para Acessar](https://viniferalbuquerque.github.io/ProjetoDevClubClima/)
 <br>
- https://viniferalbuquerque.github.io/ProjetoDevClubClima/
+ 
 <h3>Enfocando no projeto as seguintes tecnologias:<h3>
 <p>-HTML<p>
 <p>-CSS<p>
