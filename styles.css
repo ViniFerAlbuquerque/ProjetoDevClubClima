@@ -14,6 +14,7 @@ body {
     /* Altura / vh - altura */
     width: 100vw;
     /* background: url("https://source.unsplash.com/1600x900/?landscape"); */
+        /* background: url("https://picsum.photos/1600/900?random"); */
     background: url('./assets/Climas.jpg') ;
     background-repeat: no-repeat;
     background-size: 1400px 900px;
