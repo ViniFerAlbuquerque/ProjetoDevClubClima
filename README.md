@@ -1,6 +1,6 @@
 <h1> DevClub Clima! <h1>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/ViniFerAlbuquerque/ProjetoDevClubClima/681e3a5e4c1a7fbbbd3c953cdf4e8088f65ce38e/assets/climate%20project.png">
 <br>
 <h2>Projeto ensinado pelo professor Rodolfo Mori <a href="https://rodolfomori.com.br/devclub">DevClub!</a></h2>
 
