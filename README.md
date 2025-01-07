@@ -1,4 +1,4 @@
-<h1> DevClub Clima! <h1>
+<h1> Dev Clima! <h1>
 <br>
 <img src="https://raw.githubusercontent.com/ViniFerAlbuquerque/ProjetoDevClubClima/681e3a5e4c1a7fbbbd3c953cdf4e8088f65ce38e/assets/climate%20project.png">
 <br>
@@ -14,6 +14,9 @@
 <br>
  <p>Referência de imagens:</p>
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="logo-pinterest" />
+ <br>
+ <hr>
+ Projeto responsivo!
 <br>
 <h3>Site para atualização da temperatura e demais dados pertinentes:<h3>
 <p>openweathermap.org<p>
