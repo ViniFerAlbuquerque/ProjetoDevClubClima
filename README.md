@@ -12,6 +12,7 @@
 <p>-CSS<p>
 <p>-JavaScript<p>
 <br>
+  <hr>
  <p>Referência de imagens:</p>
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="logo-pinterest" />
  <br>
