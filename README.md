@@ -17,8 +17,6 @@
 <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="logo-pinterest" />
  <br><h2>Site responsivo!</h2>
  
- <hr>
- Projeto responsivo!
 <br>
 <h3>Site para atualização da temperatura e demais dados pertinentes:<h3>
 <p>openweathermap.org<p>
